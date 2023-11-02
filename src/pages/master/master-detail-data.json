@@ -1,0 +1,137 @@
+[
+  {
+    "costCenterNumber": 857,
+    "costCenter": "Operational Procurement",
+    "generalLedger": "Rent",
+    "controller": "AB",
+    "totalAmount": 12000,
+    "totalFte": 14.8,
+    "capex": null,
+    "business": "Technology",
+    "budgetOwner": "IO",
+    "callRecords": [
+      {
+        "activityId": "3c50b3b8-593f-4226-a99b-bcea623e7d87",
+        "allocatedPercentage": 50,
+        "allocatedAmount": 6000,
+        "activityName": "b2b_le__direct_it__call_center"
+      },
+      {
+        "activityId": "3c50b3b8-593f-4226-a99b-bcea623e7d87",
+        "allocatedPercentage": 50,
+        "allocatedAmount": 6000,
+        "activityName": "b2b_le__direct_sales__call_center"
+      }
+    ]
+  },
+  {
+    "costCenterNumber": 858,
+    "costCenter": "Direct Procurement",
+    "generalLedger": "Rent",
+    "controller": "AB",
+    "totalAmount": 3200000,
+    "totalFte": 16.8,
+    "capex": null,
+    "business": "Sales",
+    "budgetOwner": "IO",
+    "callRecords": [
+     {
+        "activityId": "d0905171-0c20-4c0c-bd72-952a83c8c64e",
+        "allocatedPercentage": 100,
+        "allocatedAmount": 3200000,
+        "activityName": "g_a_finance__finance_accounting_and_controlling__finance"
+    }]
+  },
+  {
+    "costCenterNumber": 859,
+    "costCenter": "Procurement",
+    "generalLedger": "IT Business Needs",
+    "controller": "AB",
+    "totalAmount": 140000,
+    "totalFte": 14.8,
+    "capex": null,
+    "business": "Marketing",
+    "budgetOwner": "IO",
+    "callRecords": [
+      {
+        "activityId": "0227ae12-95b1-4c4e-bfc9-7c7efbbb6d79",
+        "allocatedPercentage": 90,
+        "allocatedAmount": 126000,
+        "activityName": "network__core__build"
+      },
+      {
+        "activityId": "0227ae12-95b1-4c4e-bfc9-7c7efbbb6d79",
+        "allocatedPercentage": 10,
+        "allocatedAmount": 14000,
+        "activityName": "network__core__release"
+      }
+    ]
+  },
+  {
+    "costCenterNumber": 860,
+    "costCenter": "Operational Procurement",
+    "generalLedger": "Marketing",
+    "controller": "XY",
+    "totalAmount": 122000,
+    "totalFte": 140.8,
+    "capex": null,
+    "business": "Technology",
+    "budgetOwner": "IO",
+    "callRecords": [
+      {
+        "activityId": "0ba42d79-4143-4475-bbc8-aeed0c0da9eb",
+        "allocatedPercentage": 30,
+        "allocatedAmount": 36600,
+        "activityName": "b2b_sme__billing_and_collection__billing"
+      },
+      {
+        "activityId": "0ba42d79-4143-4475-bbc8-aeed0c0da9eb",
+        "allocatedPercentage": 30,
+        "allocatedAmount": 36600,
+        "activityName": "b2b_le__billing_and_direct__door_to_door"
+      },
+      {
+        "activityId": "0ba42d79-4143-4475-bbc8-aeed0c0da9eb",
+        "allocatedPercentage": 20,
+        "allocatedAmount": 24400,
+        "activityName": "b2b_le__billing_and_direct__billing"
+      },
+      {
+        "activityId": "0ba42d79-4143-4475-bbc8-aeed0c0da9eb",
+        "allocatedPercentage": 20,
+        "allocatedAmount": 24400,
+        "activityName": "b2b_le__sales_and_collection__billing"
+      }
+    ]
+  },
+  {
+    "costCenterNumber": 861,
+    "costCenter": "B2C Procurement",
+    "generalLedger": "Renting",
+    "controller": "AB",
+    "totalAmount": 88000,
+    "totalFte": 14.8,
+    "capex": null,
+    "business": "IT",
+    "budgetOwner": "IO",
+    "callRecords": [{
+        "activityId": "0ba42d79-4143-4475-bbc8-aeed0c0da9eb",
+        "allocatedPercentage": 20,
+        "allocatedAmount": 17600,
+        "activityName": "b2b_le__billing_and_direct__door_to_door"
+        },
+        {
+        "activityId": "0ba42d79-4143-4475-bbc8-aeed0c0da9eb",
+        "allocatedPercentage": 20,
+        "allocatedAmount": 17600,
+        "activityName": "b2b_le__billing_and_direct__billing"
+        },
+        {
+        "activityId": "0ba42d79-4143-4475-bbc8-aeed0c0da9eb",
+        "allocatedPercentage": 40,
+        "allocatedAmount": 35200,
+        "activityName": "b2b_le__sales_and_collection__billing"
+    }
+    ]
+  }
+]

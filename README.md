@@ -44,3 +44,30 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Getting Started with AG Grid Community
+Below we provide code for a simple AG Grid React application. To get this working locally, as follows:
+
+Using npm :
+npm install ag-grid-react@28.2.1
+
+Using yarn :
+yarn add ag-grid-react@28.2.1
+
+
+To install a specific version of ag-Grid React 
+
+Using npm :
+To install a specific version of ag-Grid React. Here's how you can install version 28.2.1 of ag-Grid React.
+
+Using yarn 
+yarn add ag-grid-react@28.2.1
+
+## Grid Dependencies
+Note the package.json has the following dependencies:
+
+"dependencies": {
+    "ag-grid-community": "28.2.1",
+    "ag-grid-react": "28.2.1",
+    ...
+}
